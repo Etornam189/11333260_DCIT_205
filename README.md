@@ -63,7 +63,7 @@ The Staff Profile Page is your go-to source for insights into the faculty. It of
 ![CONTACT PAGE](screenshot10.png)
 
 ## Courses page screenshot
-![COURSES PAGE](screenshot11.png)
+![Courses pages](screenshot11.png)
 ![COURSES PAGE](screenshot12.png)
 ![COURSES PAGE](screenshot13.png)
 
