@@ -1,4 +1,6 @@
-# DCIT_205_IA
+## ID: 11333260
+## NAME: THEOPHILA NYABLEDZI ETORNAM
+# DCIT_205
 ## UNIVERSITY OF GHANA COMPUTER SCIENCE DEPARTMENT
 
 Welcome to the official website of the Department of Computer Science at the University of Ghana! Here, we provide a virtual gateway to our dynamic academic community, fostering innovation, learning, and collaboration in the exciting field of computer science.
@@ -70,7 +72,9 @@ The Staff Profile Page is your go-to source for insights into the faculty. It of
 ![COURSES PAGE](ZC/Screenshot14.png)
 
 
+## LESSONS LEARNT FROM THE PROJECT
 
+ Through this project, I enhanced my hands-on coding skills, learned project planning, and improved problem-solving abilities. Collaboration and time management became crucial, and I gained insights into user-centric design, version control, and responsiveness. The project also emphasized creativity in layout and aesthetics, and I recognized the importance of proper documentation. Overall, it was a valuable experience that extended beyond coding, contributing to my development as a computer science student.
 
 
 
