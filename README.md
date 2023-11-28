@@ -41,7 +41,7 @@ The Staff Profile Page is your go-to source for insights into the faculty. It of
 
 
 ## homepage screenshot
-![HOME PAGE](screenshot.png)
+![HOME PAGE](ZC/Screenshot.png)
 ![HOME PAGE](screenshot1.png)
 ![HOME PAGE](screenshot2.png)
 
