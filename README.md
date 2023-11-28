@@ -77,7 +77,7 @@ The Staff Profile Page is your go-to source for insights into the faculty. It of
 ![Resources PAGE](ZC/r2.png)
 ![Resources PAGE](ZC/r3.png)
 
-### Resources screenshot
+### Staff-Profile screenshot
 ![Staff-Profile pages](ZC/sp.png)
 ![Staff-Profile PAGE](ZC/sp1.png)
 
