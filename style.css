@@ -4,6 +4,19 @@
 
 
 }
+.staffd{
+    background-color: green;
+    color: #fff;
+    padding: 10px;
+    font-size: 1rem;
+    align-items: center;
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    margin-left: 50%;
+    margin-bottom: 50px;
+    
+}
 
 
 /* navigation Bar */

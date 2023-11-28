@@ -40,7 +40,7 @@ The Resources Page is like a digital hub, offering a wealth of support for stude
 The Staff Profile Page is your go-to source for insights into the faculty. It offers a well-organized directory, making it easy to find information about professors and staff members. Each profile typically includes academic backgrounds, research interests, and professional achievements. It's a valuable resource for students and researchers looking to connect with faculty members, seek guidance, or explore potential collaborations. The page reflects a commitment to transparency and community engagement within the department.
 
 
-###S homepage screenshot
+### homepage screenshot
 ![HOME PAGE](ZC/Screenshot.png)
 ![HOME PAGE](ZC/Screenshot1.png)
 ![HOME PAGE](ZC/Screenshot2.png)
