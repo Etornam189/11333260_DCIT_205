@@ -39,25 +39,35 @@ The Resources Page is like a digital hub, offering a wealth of support for stude
 
 The Staff Profile Page is your go-to source for insights into the faculty. It offers a well-organized directory, making it easy to find information about professors and staff members. Each profile typically includes academic backgrounds, research interests, and professional achievements. It's a valuable resource for students and researchers looking to connect with faculty members, seek guidance, or explore potential collaborations. The page reflects a commitment to transparency and community engagement within the department.
 
-![HOME PAGE](screenshot(3).png)
-![HOME PAGE](screenshot(4).png)
-![HOME PAGE](screenshot(5).png)
 
-![ABOUT PAGE](screenshot(6).png)
-![ABOUT PAGE](screenshot(7).png)
+## homepage screenshot
+![HOME PAGE](screenshot.png)
+![HOME PAGE](screenshot1.png)
+![HOME PAGE](screenshot2.png)
 
-![CATALOG PAGE](screenshot(8).png)
-![CATALOG PAGE](screenshot(9).png)
-![CATALOG PAGE](screenshot(10).png)
+## about page screenshot
+![ABOUT PAGE](screenshot3.png)
+![ABOUT PAGE](screenshot4.png)
 
-![EVENT PAGE](screenshot(11).png)
-![EVENT PAGE](screenshot(12).png)
+## catalog page screenshot
 
-![CONTACT PAGE](screenshot(13).png)
+![CATALOG PAGE](screenshot5.png)
+![CATALOG PAGE](screenshot6.png)
+![CATALOG PAGE](screenshot7.png)
 
-![COURSES PAGE](screenshot(14).png)
-![COURSES PAGE](screenshot(15).png)
-![COURSES PAGE](screenshot(16).png)
+## Event page screenshot
+![EVENT PAGE](screenshot8.png)
+![EVENT PAGE](screenshot9.png)
+
+## Contact page screenshot
+![CONTACT PAGE](screenshot10.png)
+
+## Courses page screenshot
+![COURSES PAGE](screenshot11.png)
+![COURSES PAGE](screenshot12.png)
+![COURSES PAGE](screenshot13.png)
+
+![COURSES PAGE](screenshot14.png)
 
 
 
